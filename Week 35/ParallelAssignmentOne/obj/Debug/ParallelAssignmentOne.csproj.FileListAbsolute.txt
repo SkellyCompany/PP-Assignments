@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\bin\Debug\ParallelAssignmentOne.exe.config
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\bin\Debug\ParallelAssignmentOne.exe
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\bin\Debug\ParallelAssignmentOne.pdb
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\obj\Debug\ParallelAssignmentOne.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\obj\Debug\ParallelAssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\obj\Debug\ParallelAssignmentOne.exe
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelAssignmentOne\ParallelAssignmentOne\obj\Debug\ParallelAssignmentOne.pdb
