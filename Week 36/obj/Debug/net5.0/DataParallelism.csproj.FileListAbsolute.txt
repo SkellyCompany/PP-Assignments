@@ -1,0 +1,15 @@
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.csprojAssemblyReference.cache
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.AssemblyInfoInputs.cache
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.AssemblyInfo.cs
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.csproj.CoreCompileInputs.cache
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/DataParallelism.deps.json
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/DataParallelism.runtimeconfig.json
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/DataParallelism.runtimeconfig.dev.json
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/DataParallelism.dll
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/ref/DataParallelism.dll
+/Users/schemabuoi/Developer/Other/DataParallelism/bin/Debug/net5.0/DataParallelism.pdb
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.dll
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/ref/DataParallelism.dll
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.pdb
+/Users/schemabuoi/Developer/Other/DataParallelism/obj/Debug/net5.0/DataParallelism.genruntimeconfig.cache
