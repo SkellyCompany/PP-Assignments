@@ -1,0 +1,15 @@
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/Week 38.deps.json
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/Week 38.runtimeconfig.json
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/Week 38.runtimeconfig.dev.json
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/Week 38.dll
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/ref/Week 38.dll
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/bin/Debug/net5.0/Week 38.pdb
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.csprojAssemblyReference.cache
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.AssemblyInfoInputs.cache
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.AssemblyInfo.cs
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.csproj.CoreCompileInputs.cache
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.dll
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/ref/Week 38.dll
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.pdb
+/Users/schemabuoi/Developer/Assignments/PP-Assignments/Week 38/obj/Debug/net5.0/Week 38.genruntimeconfig.cache
