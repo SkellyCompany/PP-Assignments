@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.exe
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.deps.json
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.runtimeconfig.json
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.runtimeconfig.dev.json
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.dll
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ref\ParallelWeek37.dll
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\bin\Debug\net5.0\ParallelWeek37.pdb
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.AssemblyInfo.cs
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.dll
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ref\ParallelWeek37.dll
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.pdb
+C:\Users\David\Desktop\Dev\SchoolDev\Parallel\ParallelWeek37\ParallelWeek37\obj\Debug\net5.0\ParallelWeek37.genruntimeconfig.cache
